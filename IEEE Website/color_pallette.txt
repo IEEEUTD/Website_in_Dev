@@ -1,0 +1,11 @@
+blue: rgb(28, 34, 62); rgba(28,34,62, 0.86);
+
+red: #ec8d81
+
+yellow: #e7b788
+
+green: #87c5a4
+
+more blue: #8ea9e8
+
+purple:#8d82c4
